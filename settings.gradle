@@ -1,0 +1,2 @@
+rootProject.name='ExVozM'
+include ':app'
