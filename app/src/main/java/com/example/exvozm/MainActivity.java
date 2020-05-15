@@ -71,7 +71,7 @@ private ArrayList<String> vozes= new ArrayList<String>(); //Ira armazenar numa l
                     startActivityForResult(intent,0);
                 }
                 else {
-                    Toast.makeText(getApplicationContext(), "Sem mic teste branch", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Sem mic  teste branch", Toast.LENGTH_LONG).show();
                 }
             }
         });
